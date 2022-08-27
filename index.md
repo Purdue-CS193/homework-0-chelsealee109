@@ -1,5 +1,6 @@
-# Chelsea's First CS193 Homework
-- I love how fun learning about Github is!
+# Chelsea Lee's First CS193 Homework
+- Learning about Github is fun
+- Learning about other tools I will be using in this class is also one of my favorite things.
 - My TA's are pretty nice about helping me.
 
 ## Welcome to GitHub Pages
